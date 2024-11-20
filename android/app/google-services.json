@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "465505193798",
+    "project_id": "unilink-6e169",
+    "storage_bucket": "unilink-6e169.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:465505193798:android:a976c7dc11eb54b1981f47",
+        "android_client_info": {
+          "package_name": "com.omer"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBac8FZWiSDFaK5vlqi-vwG75svU1CltEc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
